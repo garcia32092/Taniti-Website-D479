@@ -109,7 +109,6 @@ button[type="submit"]:hover {
 }
 
 /* Main content styles */
-
 main {
     padding: 5vh 18vw;
 }
@@ -202,7 +201,6 @@ section h3 {
     box-sizing: border-box;
 }
 
-
 /* Footer Styles */
 footer {
     background: var(--primary1);
@@ -241,18 +239,6 @@ footer a:hover {
 
     main {
         padding: 2vh 8vw;
-    }
-
-    main.home {
-        padding: 2vh 8vw;
-    }
-
-    main.home h1 {
-        font-size: 1.7rem;
-    }
-
-    main.home h3 {
-        font-size: 1.3rem;
     }
 
     main h3 {
