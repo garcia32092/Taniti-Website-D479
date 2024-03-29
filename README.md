@@ -7,6 +7,7 @@ An interactive prototype for a Tanitian island website where users can learn abo
 
 ### The Assignment:
 I originally coded this website as an assignment for D479 while attending WGU:
+
 ![Assignment image](images/assignment.jpg)
 
 ## Using Prototype
